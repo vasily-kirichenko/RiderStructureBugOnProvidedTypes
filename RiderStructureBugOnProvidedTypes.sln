@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "RiderStructureBugOnProvidedTypes", "RiderStructureBugOnProvidedTypes\RiderStructureBugOnProvidedTypes.fsproj", "{5FAEE0AE-2DB6-426B-A704-B75FC53CF26C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".project", ".project", "{02551DFF-B8AB-411E-B06B-9D098CDC5DC2}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FAEE0AE-2DB6-426B-A704-B75FC53CF26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAEE0AE-2DB6-426B-A704-B75FC53CF26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAEE0AE-2DB6-426B-A704-B75FC53CF26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAEE0AE-2DB6-426B-A704-B75FC53CF26C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
